@@ -29,7 +29,7 @@
 
 📚📚本项目有详细的讲解教程，原文请关注我的微信公众号【卧梅又闻花】📚📚
 
-[《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（上篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
+[《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（上篇）》](https://mp.weixin.qq.com/s/kG_hvnUa8TcesolPYRXCYA)
 
 [《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（下篇）》](https://mp.weixin.qq.com/s/qspZ16sxD5JPuZu4NTnN2A)
 
@@ -147,6 +147,6 @@ npm run build:linux
 
 💖 得“鱼🐟”，不如会“渔🎣”，原文请关注我的微信公众号【卧梅又闻花】💖
 
-[《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（上篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
+[《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（上篇）》](https://mp.weixin.qq.com/s/kG_hvnUa8TcesolPYRXCYA)
 
 [《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（下篇）》](https://mp.weixin.qq.com/s/qspZ16sxD5JPuZu4NTnN2A)
