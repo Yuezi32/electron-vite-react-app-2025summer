@@ -31,7 +31,7 @@
 
 [《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（上篇）》](https://mp.weixin.qq.com/s/kG_hvnUa8TcesolPYRXCYA)
 
-[《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（下篇）》](https://mp.weixin.qq.com/s/qspZ16sxD5JPuZu4NTnN2A)
+[《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（下篇）》](https://mp.weixin.qq.com/s/JZrIvObfpV3CMhlwuJOwmg)
 
 
 ## 章节目录
@@ -149,4 +149,4 @@ npm run build:linux
 
 [《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（上篇）》](https://mp.weixin.qq.com/s/kG_hvnUa8TcesolPYRXCYA)
 
-[《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（下篇）》](https://mp.weixin.qq.com/s/qspZ16sxD5JPuZu4NTnN2A)
+[《2025盛夏版：基于electron37+vite7的React桌面客户端保姆教程（下篇）》](https://mp.weixin.qq.com/s/JZrIvObfpV3CMhlwuJOwmg)
